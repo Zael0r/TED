@@ -8,6 +8,7 @@ The E621 Downloader was created to make it easier to use e621dl by giving a more
 
 # Installation and use:
 - Install the latest version of Python (I used 3.7.4 for this version).
+
 https://www.python.org/downloads/
 - Download the zip file
 - Extract wherever
