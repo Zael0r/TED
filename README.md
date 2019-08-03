@@ -27,4 +27,4 @@ Link: https://github.com/Wulfre/e621dl
 - Figure out how to move the downloads folder to the root directory
 
 # Bugs
-Bug - Downloads folder is in the assets file
+- Downloads folder is in the assets file
