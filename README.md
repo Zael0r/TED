@@ -19,3 +19,12 @@ I do not own e621dl or claim to own it.
 The copy of e621dl I used is created by Wulfre.
 
 Link: https://github.com/Wulfre/e621dl
+
+# Updates
+- Resized TED
+
+# Future Updates
+- Figure out how to move the downloads folder to the root directory
+
+# Bugs
+Bug - Downloads folder is in the assets file
