@@ -7,6 +7,7 @@ The E621 Downloader was created to make it easier to use e621dl by giving a more
 # Download
 
 Link: https://github.com/Zael0r/TED/releases
+
 (Click on the zip file under 'sources' near the bottom of the page.)
 
 
