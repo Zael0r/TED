@@ -4,6 +4,10 @@ e621dl made easy.
 
 The E621 Downloader was created to make it easier to use e621dl by giving a more friendly UI and automatically creating the config file. TED has no malicious intent. I left it as a batch file so it can be edited and/or looked at for anyone curious or wanting to edit it.
 
+# Download
+
+Link: https://github.com/Zael0r/TED/releases
+(Click on the zip file under 'sources' near the bottom of the page.)
 
 
 # Installation and use:
